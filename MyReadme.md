@@ -15,6 +15,8 @@ sudo apt update && sudo apt install vagrant
 ## Install virtual box
 
 ## Setup Windows Subsystem for Linux (WSL2)
+https://thedatabaseme.de/2022/02/20/vagrant-up-running-vagrant-under-wsl2/
+
 To allow vagrant to talk to virtualbox follow the steps below.
 
 Create /etc/wsl.conf and reboot WSL (wsl --shutdown)
